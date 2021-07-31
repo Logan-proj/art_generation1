@@ -33,7 +33,9 @@ I wanted to create a project that combines my interests in art and programming.
 
 Provide code examples and explanations of how to get the project, e.g.,
 
-	[Insert here]
+	git clone https://github.com/Logan-proj/art_generation1.git
+	cd art_generation1
+	python main.py
 
 ## Reference
 
